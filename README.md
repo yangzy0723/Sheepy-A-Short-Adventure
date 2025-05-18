@@ -29,7 +29,7 @@ This repository provides a pre-configured save file to help you unlock the **SHE
 
 ## ▶️ How to Unlock SHEEPY STRONG | 如何解锁“SHEEPY STRONG”
 
-- After replacing the save, **launch the game and click the continue button** and you will start at the last save point **before the Stage 6 Boss battle**.  
+- After replacing the save, **launch the game and click the continue button**, then you will start at the last save point **before the Stage 6 Boss battle**.  
 替换完成后启动游戏并点击continue，你将从第六关Boss战前的最后一个存档点开始游戏。
 - Defeat the Boss **without dying** to unlock the **SHEEPY STRONG** achievement.  
 在Boss战中保持无伤击败Boss，即可解锁“SHEEPY STRONG”成就。
