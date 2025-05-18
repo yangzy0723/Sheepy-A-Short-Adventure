@@ -50,7 +50,9 @@ This repository provides a pre-configured save file to help you unlock the **SHE
 ## 📦 File Structure | 文件结构
 
 Sheepy-Strong-Save/
+
 ├── User Data.zip ← 下载并解压此文件
+
 └── README.md ← 本文件
 
 ---
